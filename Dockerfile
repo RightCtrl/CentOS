@@ -1,2 +1,3 @@
 FROM centos:7
-MAINTAINER RightCtrl <AI@RightCtrl.com>
+MAINTAINER RightCtrl <support@RightCtrl.com>
+RUN yum -y update 
